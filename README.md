@@ -15,7 +15,6 @@ A simple book recommendation system project.
 1. Clone the repository:
     ```bash
     git clone git@github.com:Sujan122321/Book_Recommendation_system.git
-    cd Book_Recommendation_system
     ```
 
 2. (Optional) Create and activate a virtual environment:
@@ -34,10 +33,4 @@ A simple book recommendation system project.
     pip install -r requirements.txt
     ```
 
-## Usage
-
-Run the main script:
-
-```sh
-python [main.py](http://_vscodecontentref_/0)
 
