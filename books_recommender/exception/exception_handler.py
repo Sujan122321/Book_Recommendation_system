@@ -1,5 +1,10 @@
+# handles and provide the exact details information of the exceptation occurrance in the overall system using this custom exception handler
+
+
+
 import os
 import sys
+
 
 
 class AppException(Exception):
