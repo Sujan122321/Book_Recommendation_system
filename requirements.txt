@@ -2,3 +2,6 @@ scikit-learn
 pandas
 numpy
 streamlit
+PyYAML              # for config .yml file
+-e .                # for setup.py 
+
